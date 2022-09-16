@@ -1,14 +1,14 @@
 import React from 'react';
 import './App.css';
 import {HashRouter} from "react-router-dom";
-import {Nav} from "./components/Nav/Nav";
-import {Pages} from "./components/Pages/Pages";
+import {Header} from "../../components/header/Header";
+import {Pages} from "./Pages";
 
 export const App = () => {
     return (
         <div>
             <HashRouter>
-                <Nav/>
+                <Header/>
                 <Pages/>
             </HashRouter>
         </div>
