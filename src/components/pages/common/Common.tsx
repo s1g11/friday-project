@@ -8,7 +8,7 @@ export const Common = () => {
         <div>
             <SuperInputText />
             <SuperButton>bla</SuperButton>
-            <SuperCheckbox/>
+            <SuperCheckbox>test checkbox</SuperCheckbox>
         </div>
     )
 }

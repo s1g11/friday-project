@@ -1,0 +1,17 @@
+.Header {
+    display: flex;
+    justify-content: center;
+    background: #D5EBFF;
+}
+
+.navLink {
+    display: inline-block;
+    padding: 10px;
+    color: #000;
+    text-decoration: none;
+    transition: 0.1s;
+}
+
+.navLink:hover {
+    background: #35A1FF;
+}

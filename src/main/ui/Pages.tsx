@@ -2,7 +2,7 @@ import React from 'react';
 import {Route, Routes} from "react-router-dom";
 import {Common} from "../../components/pages/common/Common";
 import {Profile} from "../../components/pages/profile/Profile";
-import {PageNotFound} from "../../components/pages/404/PageNotFound";
+import {PageNotFound} from "../../components/pages/404/404";
 import {ResetPassword} from "../../components/pages/reset-password/ResetPassword";
 import {ChangePassword} from "../../components/pages/change-password/ChangePassword";
 import {Reg} from "../../components/pages/reg/Reg";

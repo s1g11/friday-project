@@ -1,0 +1,14 @@
+.pageNotFound {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.errorCode {
+    font-size: 100px;
+    margin: 0;
+}
+
+.errorText {
+    margin: 0;
+    font-size: 20px;
+}
